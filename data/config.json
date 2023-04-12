@@ -1,0 +1,271 @@
+{
+	"unrevealed_image" : "ipfs://QmZ4aACwZR2vqdWCbfbzAJFNoAiFDTHrjz1snBpDd2RKir/unrevealed.gif",
+	"unrevealed_metadata" : "ipfs://QmVzr3wFWxX2WT64honLAhLVd9B2g8zpUsc6M3y2q4fYhZ/unrevealed.json",
+	"metadata" : "ipfs://QmQuUatsKrYSHX2KzkNowSY4PZHKzKhZBRDZ6ZLn7ne7Mm",
+	"image_url_base" : "ipfs://QmW1JzhfSFrJZkHhSuHbktc9TcnDub3jyKz6Baq4n1zPXg",
+	"external_image_url_base" : "https://gateway.pinata.cloud/ipfs/QmW1JzhfSFrJZkHhSuHbktc9TcnDub3jyKz6Baq4n1zPXg",
+	"project_name" : "DANKBOTS",
+	"file_type" : "png",
+	"root" : {
+		"male" : 66,
+		"female" : 30,
+		"dankbot" : 4
+	},
+	"layers" : {
+		"1" : {
+			"location" : "12 Background",
+			"description" : "background",
+			"required" : 1,
+			"items" : [ 
+				{ "image" : "Gold-01.png", "name" : "Gold", "probability" : 1, "gender" : "*" },
+				{ "image" : "Mono Beige-01.png", "name" : "Mono Beige", "probability" : 1, "gender" : "*" },
+				{ "image" : "Beige 001-01.png", "name" : "Beige 1", "probability" : 10, "gender" : "*" },
+				{ "image" : "Beige 002-01.png", "name" : "Beige 2", "probability" : 10, "gender" : "*" },
+				{ "image" : "Black 001-01.png", "name" : "Black", "probability" : 10, "gender" : "*" },
+				{ "image" : "Blue 002-01.png", "name" : "Blue", "probability" : 25, "gender" : "M" },
+				{ "image" : "Brown 001-01.png", "name" : "Brown", "probability" : 10, "gender" : "*" },
+				{ "image" : "Green 001-01.png", "name" : "Green", "probability" : 10, "gender" : "*" },
+				{ "image" : "Grey 001-01.png", "name" : "Grey 1", "probability" : 5, "gender" : "*" },
+				{ "image" : "Grey 002-01.png", "name" : "Grey 2", "probability" : 5, "gender" : "*" },
+				{ "image" : "Pink 001-01.png", "name" : "Pink", "probability" : 25, "gender" : "F" },
+				{ "image" : "Yellow 001-01.png", "name" : "Yellow", "probability" : 3, "gender" : "*" }
+			 ]
+		},
+		"2" : {
+			"location" : "11 Head and Body",
+			"description" : "head and body",
+			"required" : 1,
+			"items" : [ 
+				{ "image" : "Beige 001-01.png", "name" : "Beige", "probability" : 50, "gender" : "*" },
+				{ "image" : "Blue 002 [Alien]-01.png", "name" : "Alien", "probability" : 1, "gender" : "*" },
+				{ "image" : "Brown 001 [Ape]-01.png", "name" : "Ape", "probability" : 1, "gender" : "*" },
+				{ "image" : "Gold 001-01.png", "name" : "Gold", "probability" : 1, "gender" : "*" },
+				{ "image" : "Green 002 [Zombie]-01.png", "name" : "Zombie", "probability" : 1, "gender" : "*" },
+				{ "image" : "Grey 002-01.png", "name" : "Grey", "probability" : 41, "gender" : "*" },
+				{ "image" : "Rainbow-01-01.png", "name" : "Rainbow", "probability" : 5, "gender" : "*" }
+			 ]
+		},
+		"3" : {
+			"location" : "07 Tattoos",
+			"description" : "tattoos",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "Tattoos-01-01.png", "name" : "Tattoos", "probability" : 5, "gender" : "*" },
+				{ "image" : "NA", "name" : "NA", "probability" : 95, "gender" : "*" }
+			 ]
+		},
+		"4" : {
+			"location" : "02 Body Accessories",
+			"description" : "body accessories",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "BDSM BBL-01.png", "name" : "BDSM BBL", "probability" : 1, "gender" : "F" },
+				{ "image" : "BDSM Choker-01.png", "name" : "BDSM Choker", "probability" : 1, "gender" : "*" },
+				{ "image" : "BDSM_Hogtie-01.png", "name" : "BDSM Hogtie", "probability" : 1, "gender" : "*" },
+				{ "image" : "Black Dog Tag Necklace-01.png", "name" : "Black Dog Tag Necklace", "probability" : 5, "gender" : "*" },
+				{ "image" : "Gold Tag Necklace-01.png", "name" : "Gold Tag Necklace", "probability" : 5, "gender" : "*" },
+				{ "image" : "Nipples Rings-01.png", "name" : "Nipple Rings", "probability" : 5, "gender" : "*" },
+				{ "image" : "White Collar-01.png", "name" : "White Collar", "probability" : 5, "gender" : "*" },
+				{ "image" : "NA", "name" : "NA", "probability" : 77, "gender" : "*" }
+			 ]
+		},
+		"5" : {
+			"location" : "10 Hair",
+			"description" : "hair",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "Black 001_Long-01.png", "name" : "Black Long",                "probability" : 15, "gender" : "F" },
+				{ "image" : "Black 001_Pigtails-01.png", "name" : "Black Pigtails",   "probability" : 15, "gender" : "F" },
+				{ "image" : "Black 001_Short-01.png", "name" : "Black Short",                "probability" : 15, "gender" : "F" },
+				{ "image" : "Pink 001_Long-01.png", "name" : "Pink Long",             "probability" : 15, "gender" : "F" },
+				{ "image" : "Pink 001_Pigtails-01.png", "name" : "Pink Pigtails",     "probability" : 15, "gender" : "F" },
+				{ "image" : "Pink 001_Short-01.png", "name" : "Pink Short",             "probability" : 15, "gender" : "F" },
+				{ "image" : "Yellow 001_Long-01.png", "name" : "Yellow Long",         "probability" : 15, "gender" : "F" },
+				{ "image" : "Yellow 001_Pigtails-01.png", "name" : "Yellow Pigtails", "probability" : 15, "gender" : "F" },
+				{ "image" : "Yellow 001_Short-01.png", "name" : "Yellow Short",         "probability" : 15, "gender" : "F" },
+				{ "image" : "NA", "name" : "NA", "probability" : 100, "gender" : "M" }
+			 ]
+		},
+		"6" : {
+			"location" : "03 Clothing/Bottom",
+			"description" : "clothing - bottom",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "[M_F] Bottoms/[M_F] Beige 001.png", "name" : "Beige 1", "probability" : 10, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Beige 002.png", "name" : "Beige 2", "probability" : 5, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Black 001.png", "name" : "Black", "probability" : 10, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Blue 002.png", "name" : "Blue", "probability" : 10, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Brown 002.png", "name" : "Brown", "probability" : 5, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Green 001.png", "name" : "Green", "probability" : 10, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Grey 001.png", "name" : "Grey 1", "probability" : 10, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Grey 002.png", "name" : "Grey 2", "probability" : 5, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Pink 001.png", "name" : "Pink", "probability" : 5, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] White 001.png", "name" : "White", "probability" : 5, "gender" : "*" },
+				{ "image" : "[M_F] Bottoms/[M_F] Yellow 001.png", "name" : "Yellow", "probability" : 5, "gender" : "*" },
+				{ "image" : "NA", "name" : "NA", "probability" : 20, "gender" : "*" }
+			 ]
+		},
+		"7" : {
+			"location" : "03 Clothing/Top",
+			"description" : "clothing - top",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "[F] Female/[F] Beige 001-01.png", "name" : "Female Beige 1", "probability" : 14, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Beige 002-01.png", "name" : "Female Beige 2", "probability" : 1, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Black 001-01.png", "name" : "Female Black", "probability" : 10, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Blue 002-01.png", "name" : "Female Blue", "probability" : 14, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Brown 002-01.png", "name" : "Female Brown", "probability" : 1, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Green 001-01.png", "name" : "Female Green", "probability" : 14, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Grey 001-01.png", "name" : "Female Grey 1", "probability" : 4, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Grey 002-01.png", "name" : "Female Grey 2", "probability" : 1, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Pink 001-01.png", "name" : "Female Pink", "probability" : 20, "gender" : "F" },
+				{ "image" : "[F] Female/[F] White 001-01.png", "name" : "Female White", "probability" : 10, "gender" : "F" },
+				{ "image" : "[F] Female/[F] Yellow 001-01.png", "name" : "Female Yellow", "probability" : 5, "gender" : "F" },
+				{ "image" : "[M] Male/[M] Beige 001-01.png", "name" : "Male Beige 1", "probability" : 4, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Beige 002-01.png", "name" : "Male Beige 2", "probability" : 1, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Black 001-01.png", "name" : "Male Black", "probability" : 10, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Blue 001-01.png", "name" : "Male Blue", "probability" : 10, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Brown 002-01.png", "name" : "Male Brown", "probability" : 1, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Green 001-01.png", "name" : "Male Green", "probability" : 4, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Grey 001-01.png", "name" : "Male Grey 1", "probability" : 4, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Grey 002-01.png", "name" : "Male Grey 2", "probability" : 1, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Pink 001-01.png", "name" : "Male Pink", "probability" : 5, "gender" : "M" },
+				{ "image" : "[M] Male/[M] White 001-01.png", "name" : "Male White", "probability" : 10, "gender" : "M" },
+				{ "image" : "[M] Male/[M] Yellow 001-01.png", "name" : "Male Yellow", "probability" : 10, "gender" : "M" },
+				{ "image" : "NA", "name" : "NA", "probability" : 45, "gender" : "M" },
+				{ "image" : "NA", "name" : "NA", "probability" : 4, "gender" : "F" }
+			 ]
+		},
+		"8" : {
+			"location" : "03 Clothing/Top",
+			"description" : "clothing - top features",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "Top Features/[M][F] Ringers-01.png", "name" : "Ringers", "probability" : 5, "gender" : "*" },
+				{ "image" : "NA", "name" : "NA", "probability" : 95, "gender" : "*" }
+			 ]
+		},
+		"9" : {
+			"location" : "01 Mouth",
+			"description" : "mouth",
+			"required" : 1,
+			"items" : [ 
+				{ "image" : "Big Lips-01.png", "name" : "Big Lips", "probability" : 10, "gender" : "F" },
+				{ "image" : "Buck Teeth-01.png", "name" : "Buck Teeth", "probability" : 1, "gender" : "*" },
+				{ "image" : "Cigarette-01.png", "name" : "Cigarette", "probability" : 5, "gender" : "*" },
+				{ "image" : "Circle O-01.png", "name" : "O-Face", "probability" : 5, "gender" : "*" },
+				{ "image" : "Drool-01.png", "name" : "Drool", "probability" : 5, "gender" : "*" },
+				{ "image" : "Frown-01.png", "name" : "Frown", "probability" : 5, "gender" : "*" },
+				{ "image" : "Grill-01.png", "name" : "Grill", "probability" : 5, "gender" : "*" },
+				{ "image" : "Joint-01.png", "name" : "Joint", "probability" : 5, "gender" : "*" },
+				{ "image" : "Line-01.png", "name" : "Line", "probability" : 20, "gender" : "*" },
+				{ "image" : "Resting Bitch Face-01.png", "name" : "Resting Bitch Face", "probability" : 5, "gender" : "F" },
+				{ "image" : "Robot Dots-01.png", "name" : "Robot Dots", "probability" : 15, "gender" : "*" },
+				{ "image" : "Smile All Teeth-01.png", "name" : "Toothy Smile", "probability" : 5, "gender" : "*" },
+				{ "image" : "Smile-01.png", "name" : "Smile", "probability" : 14, "gender" : "*" }
+			 ]
+		},
+		"10" : {
+			"location" : "09 Eyes",
+			"description" : "eyes",
+			"required" : 1,
+			"items" : [ 
+				{ "image" : "Circle [CI]/00 CI Side Eye-01.png", "name" : "Circle Side Eye", "probability" : 10, "gender" : "*" },
+				{ "image" : "Circle [CI]/04 CI Closed-01.png", "name" : "Circle Closed", "probability" : 10, "gender" : "*" },
+				{ "image" : "Circle [CI]/04 CI Dank-01.png", "name" : "Circle Dank", "probability" : 10, "gender" : "*" },
+				{ "image" : "Circle [CI]/00 CI [Alien]-01.png", "name" : "Circle Alien", "probability" : 1, "gender" : "*" },
+				{ "image" : "Square [SQ]/00 SQ [Alien]-01.png", "name" : "Square Alien", "probability" : 1, "gender" : "*" },
+				{ "image" : "Square [SQ]/00 SQ Pain-01.png", "name" : "Square Pain", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/00 SQ Side Eye-01.png", "name" : "Square Side Eye", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/00 SQ Trippin-01.png", "name" : "Square Trippin", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/01 SQ Unwell-01.png", "name" : "Square Unwell", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/02 SQ Closed-01.png", "name" : "Square Closed", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/03 SQ Dank Love-01.png", "name" : "Square Dank Love", "probability" : 10, "gender" : "*" },
+				{ "image" : "Square [SQ]/03 SQ Suspicious-01.png", "name" : "Square Suspicious", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/04 SQ Cry-01.png", "name" : "Square Cry", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/04 SQ Dank Side Eye-01.png", "name" : "Square Dank Side Eye 1", "probability" : 10, "gender" : "*" },
+				{ "image" : "Square [SQ]/04 SQ Very Dank-01.png", "name" : "Square Very Dank", "probability" : 2, "gender" : "*" },
+				{ "image" : "Square [SQ]/05 SQ Dank Side Eye-01.png", "name" : "Square Dank Side Eye 2", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/05 SQ Mad-01.png", "name" : "Square Mad", "probability" : 5, "gender" : "*" },
+				{ "image" : "Square [SQ]/06 SQ Laser Beam [See Glasses for Laser Component]-01.png", "name" : "Square Laser Beam Eyes", "probability" : 1, "gender" : "*" }
+			 ]
+		},
+		"11" : {
+			"location" : "08 Eyelashes",
+			"description" : "eye lashes",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "01-01.png", "name" : "1", "probability" : 15, "gender" : "F" },
+				{ "image" : "02-01.png", "name" : "2", "probability" : 15, "gender" : "F" },
+				{ "image" : "03-01.png", "name" : "3", "probability" : 15, "gender" : "F" },
+				{ "image" : "04-01.png", "name" : "4", "probability" : 15, "gender" : "F" },
+				{ "image" : "05-01.png", "name" : "5", "probability" : 15, "gender" : "F" },
+				{ "image" : "06-01.png", "name" : "6", "probability" : 15, "gender" : "F" },
+				{ "image" : "NA", "name" : "NA", "probability" : 10, "gender" : "*" }
+			 ]
+		},
+		"12" : {
+			"location" : "05 Earring",
+			"description" : "earring",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "Black Earring-01.png", "name" : "Black", "probability" : 1, "gender" : "*" },
+				{ "image" : "Cross Earring-01.png", "name" : "Cross", "probability" : 1, "gender" : "*" },
+				{ "image" : "Diamond Earring-01.png", "name" : "Diamond", "probability" : 1, "gender" : "*" },
+				{ "image" : "Gold Earring-01.png", "name" : "Gold", "probability" : 1, "gender" : "*" },
+				{ "image" : "Gold Hoop-01.png", "name" : "Gold Hoop", "probability" : 10, "gender" : "F" },
+				{ "image" : "NA", "name" : "NA", "probability" : 40, "gender" : "F" },
+				{ "image" : "NA", "name" : "NA", "probability" : 80, "gender" : "M" }
+			 ]
+		},
+		"13" : {
+			"location" : "06 Eyewear _ Glasses",
+			"description" : "eyewear",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "[CI] Circle Black-01.png", "name" : "Circle Black", "probability" : 3, "gender" : "*" },
+				{ "image" : "[CI] Circle White-01.png", "name" : "Circle White", "probability" : 3, "gender" : "*" },
+				{ "image" : "[EYES OFF] 3D Glasses-01.png", "name" : "3D Goggles", "probability" : 1, "gender" : "*" },
+				{ "image" : "[EYES OFF] Space Goggles-01.png", "name" : "Space Goggles", "probability" : 1, "gender" : "*" },
+				{ "image" : "[EYES OFF] Sunglasses-01.png", "name" : "Sunglasses", "probability" : 3, "gender" : "*" },
+				{ "image" : "[EYES ON] Laser Beams Green-01.png", "name" : "Laser Beams Green", "probability" : 3, "gender" : "*" },
+				{ "image" : "[EYES ON] Laser Beams Red-01.png", "name" : "Laser Beams Red", "probability" : 3, "gender" : "*" },
+				{ "image" : "[EYES ON] Mr Oizo Glasses-01.png", "name" : "Mr. Oizo Glasses", "probability" : 3, "gender" : "*" },
+				{ "image" : "[EYES ON] Pink Flamingo Glasses-01.png", "name" : "Pink Flamingo Glasses", "probability" : 3, "gender" : "F" },
+				{ "image" : "[EYES ON] Ski Goggles-01.png", "name" : "Ski Goggles", "probability" : 3, "gender" : "*" },
+				{ "image" : "[EYES ON] Yellow Glasses-01.png", "name" : "Yellow Glasses", "probability" : 3, "gender" : "*" },
+				{ "image" : "[SQ] Square Black-01.png", "name" : "Square Black", "probability" : 3, "gender" : "*" },
+				{ "image" : "[SQ] Square White-01.png", "name" : "Square White", "probability" : 3, "gender" : "*" },
+				{ "image" : "NA", "name" : "NA", "probability" : 65, "gender" : "*" }
+			 ]
+		},
+		"14" : {
+			"location" : "04 Headware _ Hats",
+			"description" : "headware",
+			"required" : 0,
+			"items" : [ 
+				{ "image" : "Beanie Cap-01.png", "name" : "Beanie Cap", "probability" : 5, "gender" : "*" },
+				{ "image" : "Beige 001_Headphone-01.png", "name" : "Beige Headphones", "probability" : 5, "gender" : "*" },
+				{ "image" : "Beige 002_Backwards Cap-01.png", "name" : "Beige Backwards Cap", "probability" : 5, "gender" : "*" },
+				{ "image" : "Black 001_Backwards Cap-01.png", "name" : "Black Backwards Cap", "probability" : 5, "gender" : "*" },
+				{ "image" : "Black 001_Beanie-01.png", "name" : "Black Beanie", "probability" : 5, "gender" : "*" },
+				{ "image" : "Black 001_Durag-01.png", "name" : "Black Durag", "probability" : 5, "gender" : "*" },
+				{ "image" : "Black 001_Headphone-01.png", "name" : "Black Headphones", "probability" : 5, "gender" : "*" },
+				{ "image" : "Black 001_Sweatband-01.png", "name" : "Black Sweatband", "probability" : 5, "gender" : "*" },
+				{ "image" : "Blue 001_Cap-01.png", "name" : "Blue Cap", "probability" : 6, "gender" : "*" },
+				{ "image" : "Blue 001_Sweatband-01.png", "name" : "Blue Sweatband", "probability" : 5, "gender" : "*" },
+				{ "image" : "Blue 003_Durag-01.png", "name" : "Blue Durag", "probability" : 5, "gender" : "*" },
+				{ "image" : "Brown 001_Beanie-01.png", "name" : "Brown Beanie", "probability" : 5, "gender" : "*" },
+				{ "image" : "Cowboy Hat-01.png", "name" : "Cowboy Hat", "probability" : 4, "gender" : "*" },
+				{ "image" : "Gold Crown-01.png", "name" : "Gold Crown", "probability" : 1, "gender" : "*" },
+				{ "image" : "Halo-01.png", "name" : "Halo", "probability" : 1, "gender" : "*" },
+				{ "image" : "Pink 001_Cap-01.png", "name" : "Pink Cap", "probability" : 5, "gender" : "*" },
+				{ "image" : "Pink 001_Sweatband-01.png", "name" : "Pink Sweatband", "probability" : 1, "gender" : "*" },
+				{ "image" : "Top Hat-01.png", "name" : "Top Hat", "probability" : 3, "gender" : "*" },
+				{ "image" : "Yellow 001_Cap-01.png", "name" : "Yellow Cap", "probability" : 3, "gender" : "*" },
+				{ "image" : "NA", "name" : "NA", "probability" : 41, "gender" : "F" },
+				{ "image" : "NA", "name" : "NA", "probability" : 15, "gender" : "M" }
+			 ]
+		}
+	}
+}

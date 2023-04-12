@@ -1,0 +1,3 @@
+eth-utils
+pillow
+web3
